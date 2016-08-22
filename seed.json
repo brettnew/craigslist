@@ -1,0 +1,17 @@
+{"categories": [{
+  "name": "community",
+  "listings": {}
+  },
+  {
+    "name": "for sale",
+    "listings": {}
+  },
+  {
+    "name": "housing",
+    "listings": {}
+  },
+  {
+    "name" : "jobs",
+    "listings": {}
+  }]
+}
