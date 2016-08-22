@@ -1,10 +1,10 @@
 <h3>Categories:</h3>
 
 <ul class="list-group">
-{{#each model as |category|}}
-  <li class="list-group-item"> {{category.name}} </li>
+{{#each model.categories as |category|}}
+  <li class="list-group-item">{{#link-to 'category' category.id category=category}}{{category.name}}{{/link-to}}</li>
 {{/each}}
 
 </ul>
 
-{{new-listing save2="save3" categories=model}}
+{{new-listing save2="save3" categories=model.categories}}

@@ -2,7 +2,10 @@ import Ember from 'ember';
 
 export default Ember.Route.extend({
   model() {
-    return this.store.findAll('category');
+    return Ember.RSVP.hash({
+      listings: this.store.findAll('listing'),
+      categories: this.store.findAll('category')
+    });
   },
 
   actions: {
@@ -14,7 +17,6 @@ export default Ember.Route.extend({
         return category.save();
       });
       this.transitionTo('index');
-      console.log('save 3 ran');
     }
   }
 });
