@@ -1,0 +1,7 @@
+<ul>
+  {{#each sortedListings as |listing|}}
+    <li>{{#link-to 'listing' listing.id}} {{listing.title}} {{/link-to}}
+      <button {{action 'delete' listing}}>Delete</button>
+    </li>
+  {{/each}}
+</ul>
