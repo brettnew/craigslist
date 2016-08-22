@@ -16,6 +16,10 @@ export default Ember.Component.extend({
       };
       this.set('addNewListing', false);
       this.sendAction('save2', params);
+      this.set('title', "");
+      this.set('detail', "");
+      this.set('username', "");
+      this.set('category', "");
     }
   }
 });

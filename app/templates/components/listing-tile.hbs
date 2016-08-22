@@ -1,0 +1,6 @@
+
+<ul>
+  {{#each sortedListings as |listing|}}
+    <li>{{#link-to 'listing' listing.id}} {{listing.title}} {{/link-to}}</li>
+  {{/each}}
+</ul>
