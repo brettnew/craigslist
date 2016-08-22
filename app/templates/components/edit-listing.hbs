@@ -1,0 +1,37 @@
+{{#if editListing}}
+  <div>
+    <form>
+      <div class="form-group">
+        <label for="title">Title</label>
+        {{input value=title id="title" placeholder=listing.title}}
+      </div>
+
+      <div class="form-group">
+        <label for="detail">Details</label>
+        {{input value=detail id="detail" placeholder=listing.detail}}
+      </div>
+
+      <div class="form-group">
+        <label for="username">User Name</label>
+        {{input value=username id="username" placeholder=listing.username}}
+      </div>
+
+      <div class="form-group">
+        <label for="category">Category</label>
+        {{#power-select
+          selected=category
+          options=categories
+          onchange=(action (mut category))
+          as |item|
+        }}
+          {{item.name}}
+        {{/power-select}}
+      </div>
+
+      <button {{action 'edit' listing}}>Save</button>
+
+    </form>
+  </div>
+{{else}}
+<button {{action 'editListingShow'}}>Update</button>
+{{/if}}
