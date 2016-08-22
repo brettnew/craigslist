@@ -12,7 +12,8 @@ export default Ember.Component.extend({
         category: this.get('category'),
         title: this.get('title'),
         detail: this.get('detail'),
-        username: this.get('username')
+        username: this.get('username'),
+        image: this.get('image')
       };
       this.set('editListing', false);
       this.sendAction('edit', listing, params);

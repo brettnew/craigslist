@@ -1,6 +1,6 @@
 
-<ul>
+<ul class="list-group">
   {{#each sortedListings as |listing|}}
-    <li>{{#link-to 'listing' listing.id}} {{listing.title}} {{/link-to}}</li>
+    <li class="list-group-item">{{#link-to 'listing' listing.id}} {{listing.title}} {{/link-to}}</li>
   {{/each}}
 </ul>

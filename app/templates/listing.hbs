@@ -1,3 +1,6 @@
 <h1>{{model.title}}</h1>
+<img src="{{model.image}}" alt="user's image"/>
 <h5>{{model.detail}}</h5>
 <h5>Posted by {{model.username}} on {{dateDisplay model.timestamp}}</h5>
+
+{{#link-to 'index'}}Home{{/link-to}}

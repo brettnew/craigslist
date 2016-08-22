@@ -3,17 +3,17 @@
     <form>
       <div class="form-group">
         <label for="title">Title</label>
-        {{input value=title id="title" placeholder=listing.title}}
+        {{input class="form-control" value=title id="title" placeholder=listing.title}}
       </div>
 
       <div class="form-group">
         <label for="detail">Details</label>
-        {{input value=detail id="detail" placeholder=listing.detail}}
+        {{textarea class="form-control" value=detail id="detail" placeholder=listing.detail}}
       </div>
 
       <div class="form-group">
         <label for="username">User Name</label>
-        {{input value=username id="username" placeholder=listing.username}}
+        {{input class="form-control" value=username id="username" placeholder=listing.username}}
       </div>
 
       <div class="form-group">
@@ -28,10 +28,15 @@
         {{/power-select}}
       </div>
 
-      <button {{action 'edit' listing}}>Save</button>
+      <div class="form-group">
+        <label for="image">Picture</label>
+        {{input class="form-control" value=image id="image"}}
+      </div>
+
+      <button class="btn btn-primary btn-sm"{{action 'edit' listing}}>Save</button>
 
     </form>
   </div>
 {{else}}
-<button {{action 'editListingShow'}}>Update</button>
+<button class = "btn btn-warning btn-sm" {{action 'editListingShow'}}>Update</button>
 {{/if}}

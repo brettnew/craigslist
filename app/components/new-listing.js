@@ -12,7 +12,8 @@ export default Ember.Component.extend({
         detail: this.get('detail'),
         username: this.get('username'),
         timestamp: Date.now(),
-        category: this.get('category')
+        category: this.get('category'),
+        image: this.get('image')
       };
       this.set('addNewListing', false);
       this.sendAction('save2', params);
@@ -20,6 +21,7 @@ export default Ember.Component.extend({
       this.set('detail', "");
       this.set('username', "");
       this.set('category', "");
+      this.set('image', "");
     }
   }
 });

@@ -8,3 +8,5 @@
 <h4>Current listings:</h4>
 
   {{admin-listing-tile listings=model.currentCategory.listings categories=model.categories destroyListing="destroyListing"}}
+
+{{#link-to 'index'}}<button class="btn btn-primary">Log Out of Admin</button>{{/link-to}}

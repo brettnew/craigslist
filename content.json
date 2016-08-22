@@ -1,0 +1,109 @@
+{
+  "categories" : [ {
+    "listings" : {
+      "-KPnBhkuxWrmpuNh6W2F" : true,
+      "-KPo6qzRNSXnn0R995XT" : true,
+      "-KPo750JMZSpz7yccijz" : true
+    },
+    "name" : "community"
+  }, {
+    "listings" : {
+      "-KPnC5d8ZAFIN8IyZuKU" : true,
+      "-KPo7JH3cxoV_UHD-IKs" : true,
+      "-KPo7T2oyGvYyHQ-YMR0" : true
+    },
+    "name" : "for sale"
+  }, {
+    "listings" : {
+      "-KPo6RVJIYOBNi3H6YHy" : true,
+      "-KPo6bYwhBpie3kqWruw" : true
+    },
+    "name" : "housing"
+  }, {
+    "listings" : {
+      "-KPo5QRq3rCYR-qk9iq2" : true,
+      "-KPo5ul4w8Qhw3sFpDl4" : true,
+      "-KPo6DVJPU6yxta200hk" : true
+    },
+    "name" : "jobs"
+  } ],
+  "listings" : {
+    "-KPnBhkuxWrmpuNh6W2F" : {
+      "category" : "0",
+      "detail" : "it's all SOOO free!",
+      "timestamp" : 1471885390999,
+      "title" : "free stuffs",
+      "username" : "joey"
+    },
+    "-KPnC5d8ZAFIN8IyZuKU" : {
+      "category" : "1",
+      "detail" : "they're great",
+      "timestamp" : 1471885492903,
+      "title" : "buy all my tvs",
+      "username" : "sarah"
+    },
+    "-KPo5QRq3rCYR-qk9iq2" : {
+      "category" : "3",
+      "detail" : "you will serve coffee",
+      "timestamp" : 1471900521024,
+      "title" : "barista",
+      "username" : "joey"
+    },
+    "-KPo5ul4w8Qhw3sFpDl4" : {
+      "category" : "3",
+      "detail" : "Alcohol and Drug Service Technician \n\nWe are CODA. We are a not-for-profit, research focused behavioral health agency and the oldest opioid-addiction treatment facility in Oregon. Since 1969, we have helped adult clients and families in Multnomah, Washington and Clackamas counties free themselves from the ravages of substance use through compassionate, evidence-based care. We value our amazing employees and show it with incredible benefits, a supportive company culture and the opportunity to be part of a best-in-class research department. ",
+      "timestamp" : 1471900649295,
+      "title" : "Alcohol and Drug Service Technicians",
+      "username" : "CODA"
+    },
+    "-KPo6DVJPU6yxta200hk" : {
+      "category" : "3",
+      "detail" : "We are currently hiring for a self-motivated, friendly, part-time play attendant at an upbeat, fast-paced doggy daycare facility in the SW area. Applicants should be comfortable working with large groups of dogs of every breed and size in an open-play setting. Strong customer service skills are also required, as there will be frequent interaction with customers. Candidates must be team players with positive attitudes, but also able to work efficiently on their own. Reliability, consistent attendance, and a high work ethic are essential.\nJob Duties include:\n1.\tMonitoring the park and maintaining control of a large group of dogs. Attendant is responsible for cleaning up all messes promptly and thoroughly to ensure a safe and clean environment for the dogs. Attendants are expected to actively play and interact with the dogs! This means that you will be on your feet for the majority (if not all) of your shift. Candidate should be familiar with basic canine body language in order to ensure that the dogs are safe and happy at all times.\n\n2.\tHeavy cleaning on a daily basis (Lots of dogs means lots of cleaning!). This includes cleaning continually in the play areas, but also detailed cleaning of the kennels and other areas around our large facility. Daily cleaning checklists are expected to be completed in a timely manner with attention to detail. New employees are trained on the proper use of cleaning equipment and cleaning solutions, and will be expected to adhere to the guidelines provided them.\n\n3.\tAttendant will be required to perform basic grooming services for the dogs such as baths, nail trims, and brush outs. You will also be responsible for feeding dogs according to owner instructions and administering medications both orally and topically (such as ear drops, eye drops, and other topical medications) as required for the dogs in our care.\n\n4.\tCANDIDATES MUST POSSESS AND USE COMMON SENSE!!\nThe position starts at $10.75 per hour and will be scheduled for 20 to 30 hours a week to start, but more hours are likely to come available. Candidates must be available to work days, evenings, weekends, and Holidays. Please send a resume and three professional references.",
+      "timestamp" : 1471900730143,
+      "title" : "Dog Daycare Attendant ",
+      "username" : "I_luv_dogs"
+    },
+    "-KPo6RVJIYOBNi3H6YHy" : {
+      "category" : "2",
+      "detail" : "\nFollow This Link for More Information:\nhttp://apartments.greystar.com/es58m0\n\n\nApartments For Rent in Portland, Oregon\n\nSurround yourself with the preserved natural Oregon splendor of Clermont's pet-friendly apartments for rent in Portland, Oregon. Our community features one-, two-, and three-bedroom apartment homes with excellent extra amenities in the Portland metro area. We're also near major employers like Nike and Intel, restaurants and shopping at Cedar Hills Crossing, and schools are only moments away.\n\nEach rental has been professionally designed with today's complicated lifestyle in mind: European cabinetry, full size washers and dryers, a built in microwave, garbage disposal and dishwasher, private decks or patios with storage. Other options to choose from include covered parking, garages, cable TV and fireplaces. Quality of life is important inside and outside, our peaceful setting, enhances features such as our recreation center, exercise room, and picnic area. Relax in the pool, or soak in the spa. Just take time for yourself. The quality of Clermont will far exceed your expectations. Come and see for yourself today! ",
+      "timestamp" : 1471900787487,
+      "title" : "$1120 / 1br - 727ft2 - This 1bedroom/1bath Is The Perfect Place To Call Home!",
+      "username" : "CDM Realty"
+    },
+    "-KPo6bYwhBpie3kqWruw" : {
+      "category" : "2",
+      "detail" : "Greenfield Village Apartments\n\nBeautiful 2 Bedroom 1 Bath home available for rent immediately!\nTucked away in a quiet neighborhood near beautiful Murray Hill. We offer spacious floor plans that you will love to call home. Only minutes from HWY 217, conveniently located in a beautiful neighborhood just off Scholls Ferry Rd! Enjoy shopping at nearby Washington Square Mall. Just minuets from George Fox University, PCC, and Lewis & Clark! \n\n$40 application fee/adult\n\nSecurity Deposit is half or full months rent dependent on results of screening.",
+      "timestamp" : 1471900832775,
+      "title" : "$1025 / 2br - 756ft2 - 2 Bedroom 1 bath $1025 - Amazing area!",
+      "username" : "Realty Company"
+    },
+    "-KPo6qzRNSXnn0R995XT" : {
+      "category" : "0",
+      "detail" : "Fitness 4 Fun? We do it here!\n\nOur classes focus on cardio, muscle toning; & dance for women of any fitness level. \nWe are easy going, fun, and classes feel like a little escape in our day. \nYou get a great workout without hardly knowing you are 'working' it is so much fun!\n\nIt takes some time to build strength but you will be surprised how fast you can achieve more and more!\nFour classes a week.\nPrices and details: \npole4fun.com\n\nSafe and Sturdy Poles can be ordered 4 your home.\n\nClasses \nBachelorette & Birthday Parties\nOne time class for a group\nGirlfriends Great Escapes; Girls Night Out\nPrivate Lessons\nWorkshops",
+      "timestamp" : 1471900895975,
+      "title" : " 8/22-9/4: Pole 4 Fun Fitness Classes",
+      "username" : "Fitness_lover"
+    },
+    "-KPo750JMZSpz7yccijz" : {
+      "category" : "0",
+      "detail" : "\nLocation: SE Portland\n\nTerm: mid-June through end of August, 2016\n\nDays: Monday through Friday, 5 days a week\n\nTimes: 10 am - 2 pm (4 hours)\n\nAges: 3-5 years old\n\nProgram Title: Mandarin Chinese Summer School for Children\n\nDescription: Summer school allows for children who have no had no exposure to Mandarin Chinese to get a feeling for the language and culture. For those who go to Mandarin Chinese schools during the school year, it's a great way for children to learn new words and phrases, as well as to keep current during the summer -- not to lose the hard earned conversational skills and reading/writing skills they have learned through the school year. The focus in summer school is on conversation, but some reading and writing of characters and pinyin is also covered.\n\nThis class is designed for children ages 3 to 5. Class sizes are kept small. Teachers are native speakers of Mandarin Chinese with good or excellent English. We keep the classes fun and the children engaged. Children will learn Mandarin Chinese conversational skills, as well how to read/write Chinese characters. In order to teach the language, we use various techniques that included but are not limited to simple mathematics, arts and crafts, singing and dancing, group games, story telling, physical activities all in Mandarin Chinese. In short, they will learn how to speak and understand spoken Mandarin Chinese and they will learn how to read and write some Chinese characters, including transliteration systems pinyin and zhuyin (bopomofo). (Children must be potty trained.)",
+      "timestamp" : 1471900957535,
+      "title" : " 8/13-8/26: Chinese Summer School for Children",
+      "username" : "chinese_primary_school"
+    },
+    "-KPo7JH3cxoV_UHD-IKs" : {
+      "category" : "1",
+      "detail" : "NO TEXTS- Calls ONLY...to much SPAM! Local Sales Only!\n\nOriginal oil painting by Kenyan artist, Jacob Wachira Ezigbo, titled \"Memories of the Heart\" is currently for sale as I have run out of wall space! I bought this work directly from the artist during a show he had in Portland while visiting from Nairobi, Kenya. I have loved it for many years. It brings the spring time into the room. I have a lot of information about the artist that will accompany this work of art.\n\nHis oils are played on thick, creating a full color, full bodied exciting work of art.\n\nPainted in 2007, oil on canvas and framed in a simple light wood gallery style frame.",
+      "timestamp" : 1471901015951,
+      "title" : "Original oil painting by Kenyan artist, Jacob Wachira Ezigbo - $2500",
+      "username" : "Kenya_is_king"
+    },
+    "-KPo7T2oyGvYyHQ-YMR0" : {
+      "category" : "1",
+      "detail" : "Show you pride this football season by owning one of these custom made huge 4 foot Seahawks LED signs they look great with the light on or off two different LED color options blue or green are now available they plug into the wall and are controlled by remote the remote features 3 flash options and 9 dimming options call don to order yours now",
+      "timestamp" : 1471901055999,
+      "title" : "HUGE 4' Seahawks LED WALL ART - $300",
+      "username" : "seahawks4life"
+    }
+  }
+}
